@@ -35,12 +35,7 @@ public class githubIkinciDers {
         EGER "GIT REMOTE ADD ORIGIN + REPO. URL" GIRDIKTEN SONRA "GIT PUSH --SET UPSTREAM ORIGIN MASTER"
         BU UYARIYI VERIYORSA BU UYARIYI DIREK KOPYALAYIP ALTTAKI YENI CIKAN USER KOD BLOGUNUN SONUNA YAPISTIRIRSAK
         KAYIT ISLEMINE GECIS YAPAR.
-
-
-
-
-
-
-         */
+            */
+        System.out.println("git add");
     }
 }
